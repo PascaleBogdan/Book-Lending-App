@@ -1,0 +1,31 @@
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\bin\Debug\Biblioteca.exe.config
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\bin\Debug\Biblioteca.exe
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\obj\Debug\Biblioteca.csproj.SuggestedBindingRedirects.cache
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\obj\Debug\Biblioteca.LoginForm.resources
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\obj\Debug\Biblioteca.exe
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\obj\Debug\Biblioteca.Meniu.resources
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\obj\Debug\Biblioteca.CartiForm.resources
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\obj\Debug\Biblioteca.PersoaneForm.resources
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\obj\Debug\Biblioteca.FImprumuturiAct.resources
+D:\facultate\An 3 FMI\An 3 Sem 1\Tehnici avansate de programare\Proiect\Biblioteca\obj\Debug\Biblioteca.FImprumuturi.resources
+C:\Users\Bogdan\Desktop\project\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Bogdan\Desktop\project\Biblioteca\obj\Debug\Biblioteca.CartiForm.resources
+C:\Users\Bogdan\Desktop\project\Biblioteca\obj\Debug\Biblioteca.FImprumuturi.resources
+C:\Users\Bogdan\Desktop\project\Biblioteca\obj\Debug\Biblioteca.FImprumuturiAct.resources
+C:\Users\Bogdan\Desktop\project\Biblioteca\obj\Debug\Biblioteca.LoginForm.resources
+C:\Users\Bogdan\Desktop\project\Biblioteca\obj\Debug\Biblioteca.Meniu.resources
+C:\Users\Bogdan\Desktop\project\Biblioteca\obj\Debug\Biblioteca.PersoaneForm.resources
+C:\Users\Bogdan\Desktop\project\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\Bogdan\Desktop\project\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Bogdan\Desktop\project\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Bogdan\Desktop\project\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Bogdan\Desktop\project\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Bogdan\Desktop\project\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Bogdan\Desktop\project\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\project\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
